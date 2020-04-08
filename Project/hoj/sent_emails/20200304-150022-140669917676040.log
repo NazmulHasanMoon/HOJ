@@ -1,0 +1,23 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Password Reset Confirmation
+From: webmaster@localhost
+To: admin@exmpale.com
+Date: Wed, 04 Mar 2020 15:00:22 -0000
+Message-ID: <158333402204.4246.12828035841973094906@moon-HP-ProBook-450-G1>
+
+
+To initiate the password reset process for your admin TestSite Account,
+click the link below:
+
+http://127.0.0.1:8000/accounts/reset/MQ/5ei-fc5f1338b5909b3ed339/
+
+If clicking the link above doesn't work, please copy and paste the URL in a new browser
+window instead.
+
+Sincerely,
+The TestSite Team
+
+
+-------------------------------------------------------------------------------
